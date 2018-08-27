@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AirQuality": {
+      "commandName": "Project",
+      "commandLineArgs": "-p COM4 -s 0 -t {your-api-key}"
+    }
+  }
+}
